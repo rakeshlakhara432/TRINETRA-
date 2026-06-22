@@ -1,0 +1,6 @@
+{
+  "name": "Trinetra Cyber Forensic",
+  "description": "Advanced cyber security investigation, case tracking, live threat monitoring, real-time alerts, and AI-powered forensic operations website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
